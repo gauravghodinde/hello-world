@@ -1,7 +1,4 @@
-/**
-Bryn Mawr College, Department of Computer Science <br>
-Classic starfield using 2D transformations and z-scaling.
-*/
+
 
 // Array of stars
 Star[] stars = new Star[400];
